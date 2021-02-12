@@ -4,7 +4,7 @@ My Updated Portfolia is to show how far I've come along as a web developer.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the link https://ccastillo25.github.io/MyUpdatedPortfolio/ to view page.
 
 ## Usage
 
